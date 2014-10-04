@@ -1,0 +1,1 @@
+Yup, this is my first projext. nothing to see here. just learning how to create my first android app. all documented using git! yay!
